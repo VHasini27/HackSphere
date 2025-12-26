@@ -1,0 +1,7 @@
+{
+  "name": "HyderAQI: Real-Time Air Quality Intelligence",
+  "description": "A high-performance air quality dashboard for Hyderabad using Gemini 3 Flash and Google Search Grounding to provide real-time hyper-local pollutant data and health insights for any neighborhood.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
